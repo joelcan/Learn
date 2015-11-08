@@ -15,7 +15,7 @@
 - RR is always strongly trilled.
 - Y = "Y" (except for the word "Y" which is pronounced "EE").
 - Z = "S" (Or "TH" in Spain.)
-- QUE = "KE" like kept.
+- QUE = "KE" like cape.
 - QUI = "KEE"
 - GUE = "GUE" like guest.
 - GUI = "GEE" like geese.

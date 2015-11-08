@@ -1,0 +1,20 @@
+# Factors in verb conjucation
+
+
+## Finite verb forms:
+
+tense
+person
+gender
+mood
+voice
+aspect
+number
+
+Mnemonic: ToP GuM VAN
+
+
+## Non-finite verb forms
+
+In English: Infinitives, participles and gerunds (sometimes called "verbals")
+
