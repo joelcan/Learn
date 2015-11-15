@@ -1,0 +1,16 @@
+# Arabic Alphabet
+
+## Group 1
+
+ب = b = Ba
+ت = t = Ta
+ث = th = Tha
+ن = n = Noon
+ي = y = Ya (Vowel: e/i/y)
+
+## Group 2 (Never connects to the left)
+
+ا = ā = Alef (Vowel: a, like in hat or saw)
+د = d = D?
+ذ = dh = Thal
+
