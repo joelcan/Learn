@@ -134,10 +134,15 @@ Para:
 10th décimo
 
 
-## Que vs Qué
+## Accents or Not (Que vs Qué and other)
 que = that
 qué = what
 
+For other accents - use accent mark if it can replace an equivalent using qué:
+- If you can replace "cómo"   with "de qué manera",  it has the accent mark.
+- If you can replace "cuándo" with "en qué momento", it has the accent mark.
+- If you can replace "dónde"  with "en qué lugar",   it has the accent mark.
+- If you can replace "quién"  with "qué persona",    it has the accent mark.
 
 # Spanish Tongue Twisters, Rhymes, and other fun stuff
 
